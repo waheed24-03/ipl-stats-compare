@@ -1,0 +1,15 @@
+body {
+  background: linear-gradient(180deg, #0A0F1C 0%, #111827 100%);
+  font-family: 'Montserrat', sans-serif;
+  color: #FFFFFF;
+}
+
+h1, h2, h3, .stSelectbox label {
+  color: #D4AF7F;
+}
+
+.stButton>button {
+  background-color: #D4AF7F;
+  color: #111827;
+  font-weight: bold;
+}
