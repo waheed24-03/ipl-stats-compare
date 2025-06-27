@@ -1,2 +1,32 @@
-I’ve built a Python + Streamlit project called "IPL BattleGround" that compares IPL batsmen vs bowlers using real match data (CSV). It includes stats like SR, Average, Wickets, 4s/6s, a pie chart, confidence meter, and verdict logic. Now, I want to convert this into a scalable full-stack web app with a professional UI.
+# 🏏 IPL BattleGround - Batsman vs Bowler Duel Analyzer
 
+A Streamlit app to analyze IPL duels between batsmen and bowlers using historical ball-by-ball data.
+
+## 📸 Preview
+![App Screenshot](OutputSS.png)
+
+## 🚀 Features
+- Select any batsman and bowler from IPL history
+- See duel stats like:
+  - Runs scored
+  - Balls faced
+  - Strike Rate
+  - Average
+  - 4s/6s count
+  - Confidence Meter
+  - Dominance Pie Chart
+- Clean, responsive UI with Streamlit and matplotlib
+
+## 📦 Tech Stack
+- Python
+- Streamlit
+- Pandas
+- Matplotlib
+
+## 🛠️ How to Run Locally
+
+```bash
+git clone https://github.com/your-username/ipl-stats-compare.git
+cd ipl-stats-compare
+pip install -r requirements.txt
+streamlit run app.py
