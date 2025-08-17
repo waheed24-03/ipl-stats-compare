@@ -25,8 +25,18 @@ A Streamlit app to analyze IPL duels between batsmen and bowlers using historica
 
 ## 🛠️ How to Run Locally
 
-```bash
-git clone https://github.com/your-username/ipl-stats-compare.git
-cd ipl-stats-compare
-pip install -r requirements.txt
-streamlit run app.py
+## bash
+- git clone https://github.com/your-username/ipl-stats-compare.git
+- cd ipl-stats-compare
+- pip install -r requirements.txt
+- streamlit run app.py
+
+   # 👤 Author
+-  Syed Abdul Waheed
+-  Data Science Enthusiast | Python Developer | Automation Explorer
+
+- 📬 Connect: LinkedIn (https://www.linkedin.com/in/syed-abdul-waheed/)
+- 🐙 GitHub: waheed24-03
+
+
+
