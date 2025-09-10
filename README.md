@@ -38,13 +38,13 @@ A Streamlit app to analyze IPL duels between batsmen and bowlers using historica
 ```
 ---
 
- ## Acknowledgements
+## Acknowledgements
 - Kaggle
 - Streamlit
 
 ---
 
- ## Acknowledgements
+## Acknowledgements
 - Kaggle
 - Streamlit 
 ---
