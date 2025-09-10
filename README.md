@@ -26,7 +26,8 @@ A Streamlit app to analyze IPL duels between batsmen and bowlers using historica
 - Streamlit
 - Pandas
 - Matplotlib
-
+  
+---
 ## 🛠️ How to Run Locally
 
 ``` bash
@@ -35,6 +36,7 @@ A Streamlit app to analyze IPL duels between batsmen and bowlers using historica
 - pip install -r requirements.txt
 - streamlit run app.py
 ```
+---
 
  ## Acknowledgements
 - Kaggle
