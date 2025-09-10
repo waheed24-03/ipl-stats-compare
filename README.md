@@ -48,5 +48,11 @@ A Streamlit app to analyze IPL duels between batsmen and bowlers using historica
 - Kaggle
 - Streamlit 
 ---
+  
+## 👤 Author
+-  Syed Abdul Waheed
+-  Data Science Enthusiast | Python Developer | Automation Explorer
+- 📬 Connect: LinkedIn (https://www.linkedin.com/in/syed-abdul-waheed/)
+- 🐙 GitHub: waheed24-03
 
-
+--- 
