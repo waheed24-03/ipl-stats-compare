@@ -5,6 +5,8 @@ A Streamlit app to analyze IPL duels between batsmen and bowlers using historica
 ## 📸 Preview
 ![App Screenshot](OutputSS.png)
 
+---
+
 ## 🚀 Features
 - Select any batsman and bowler from IPL history
 - See duel stats like:
@@ -16,6 +18,8 @@ A Streamlit app to analyze IPL duels between batsmen and bowlers using historica
   - Confidence Meter
   - Dominance Pie Chart
 - Clean, responsive UI with Streamlit and matplotlib
+  
+---
 
 ## 📦 Tech Stack
 - Python
